@@ -1,0 +1,17 @@
+description: MLAB base-board with size 15x21 holes with standard MLAB grid 400mils
+  (10.16mm). The board on the sides contains a series of M3 holes with a metric pitch
+  (10 mm) and three holes for stacking the boards above each other.
+github_branch: ALBASE1521
+github_repo: ALBASE1521
+github_url: https://github.com/mlab-modules/ALBASE1521
+homepage: false
+images:
+- doc/img/ALBASE1521_small.jpg
+- doc/img/888_1001.png
+- doc/img/888_1002.png
+- doc/img/ALBASE1521_QRcode.png
+mark: 50
+tags:
+- albase
+- mlab
+title: ALBASE1521

@@ -1,0 +1,10 @@
+bom: hw/sch_pcb/ALBASE1521.kicad_pcb
+color: white
+eda:
+  pcb: hw/sch_pcb/ALBASE1521.kicad_pcb
+  type: kicad
+gerbers: hw/cam_profi/
+site: https://github.com/mlab-modules/ALBASE1521
+summary: MLAB base-board with size 15x21 holes with standard MLAB grid 400mils (10.16mm).
+  The board on the sides contains a series of M3 holes with a metric pitch (10 mm)
+  and three holes for stacking the boards above each other.
