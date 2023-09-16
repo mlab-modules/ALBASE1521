@@ -11,6 +11,7 @@ images:
 - doc/img/ALBASE1521_QRcode.png
 - doc/img/888_1001.png
 mark: 50
+status: 0
 tags:
 - albase
 - mlab
